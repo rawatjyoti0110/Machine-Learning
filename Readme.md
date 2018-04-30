@@ -9,7 +9,7 @@ Please find below steps and source code for details.
 ## Data Understanding and Exploration: [Source Code](https://github.com/rawatjyoti0110/Machine-Learning/tree/master/Preprocessing)
 File/s name: Preprocessing.ipynb
 
-## Preprocessing: [Source Code](https://github.com/rawatjyoti0110/Machine-Learning/tree/master/Preprocessing)
+### Preprocessing: [Source Code](https://github.com/rawatjyoti0110/Machine-Learning/tree/master/Preprocessing)
 File/s name:
 ```
 Imge_filtering_avgblur.ipynb
