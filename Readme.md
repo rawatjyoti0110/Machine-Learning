@@ -10,10 +10,10 @@ Please find below steps and source code for details.
 File/s name: Preprocessing.ipynb
 
 ## Preprocessing: [Source Code](https://github.com/rawatjyoti0110/Machine-Learning/tree/master/Preprocessing)
-File/s name: Image_filtering_avgblur.ipynb,
-	     Image_filtering_bilateral.ipynb
-	     Image_filtering_sobel.ipynb
-	     mattojpg.ipynb
+File/s name: Image_filtering_avgblur.ipynb
+Image_filtering_bilateral.ipynb
+Image_filtering_sobel.ipynb
+mattojpg.ipynb
 ## Modeling:
 
 ### MLP: Source Code [Source code](https://github.com/rawatjyoti0110/Machine-Learning/tree/master/MLP)
