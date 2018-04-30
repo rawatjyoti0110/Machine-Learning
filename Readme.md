@@ -4,7 +4,7 @@ This project is on SVHN dataset.
 
 Please find below steps and source code for details.
 
-## Presentation: [LINK](https://drive.google.com/drive/u/1/folders/1dYrJZVI1lOT19zzXuNt_nFafvY58LinQ)
+## Presentation: [LINK](https://drive.google.com/open?id=17km_CYKX2BXR41BlZ5zEzLSh53OR72zC)
 
 ## Data Understanding and Exploration: [Source Code](https://github.com/rawatjyoti0110/Machine-Learning/tree/master/Preprocessing)
 File/s name: Preprocessing.ipynb
